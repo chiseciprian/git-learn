@@ -2,3 +2,5 @@ FirstClass
 Coleg1-f1
 Coleg1-f2
 Coleg1-f3
+Coleg2-f1
+Coleg2-f2
